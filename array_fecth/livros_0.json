@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "alguem",
+        "preco": 20.5,
+        "autor": "Machado de Assis"
+    },
+    {
+        "titulo": "PostgreSQL: Banco de dados para aplicações web modernas",
+        "preco": 89.9,
+        "autor": "Vinícius Carvalho"
+    },
+    {
+        "titulo": "Sass: Aprendendo pré-processadores CSS",
+        "preco": 79.9,
+        "autor": "Natan Souza"
+    },
+    {
+        "titulo": "HTML5 e CSS3: Domine a web do futuro",
+        "preco": 49.9,
+        "autor": "Lucas Mazza"
+    },
+    {
+        "titulo": "Cangaceiro JavaScript: Uma aventura no sertão da programação",
+        "preco": 19.9,
+        "autor": "Flávio Almeida"
+    },
+    {
+        "titulo": "Python: Escreva seus primeiros programas",
+        "preco": 9.9,
+        "autor": "Felipe Cruz"
+    },
+    {
+        "titulo": "Spring Boot: Acelere o desenvolvimento de microsserviços",
+        "preco": 29.9,
+        "autor": "Fernando Boaglio"
+    },
+    {
+        "titulo": "Django de A a Z: Crie aplicações web rápidas, seguras e escaláveis com Python",
+        "preco": 94.9,
+        "autor": "Tiago Silva"
+    },
+    {
+        "titulo": "Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "preco": 139.9,
+        "autor": "Diego Eis"
+    },
+    {
+        "titulo": "Pandas Python: Data Wrangling para Ciência de Dados",
+        "preco": 229.9,
+        "autor": "Eduardo Corrêa"
+    },
+    {
+        "titulo": "Front-end com Vue.js: Da teoria à prática sem complicações",
+        "preco": 99.9,
+        "autor": "Flávio Almeida"
+    },
+    {
+        "titulo": "ECMAScript 6: Entre de cabeça no futuro do JavaScript",
+        "preco": 11.9,
+        "autor": "Diego Martins de Pinho"
+    }
+]
